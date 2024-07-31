@@ -10,9 +10,13 @@ would like to explain my approach while integrating this videocall sdk
 ------------> In this case we are calling all the data and functions from videosdk platform. but in real time scenario  we can enhance the meeta pp by building our own schemas databases and fastapi pydnatic models to deal with latency and ease of use. 
 ------------> I have given exapmles of how we can improve and develop own system using fastapi inbuild features. you can see examples of how we can use own customzied models to develop system in models.py databases.py and schemas.py
 
-------------> due to time constraitns I have implemented with best of knowledge and without using any AI models like chatgpt copoilot etc. purely my knowledge gained through my study and internships.
+------------> another way to tackle this problems with other methods I have written in short in "improvment" folder in repo.
 
--------------> thanks for this opportunity.
+-------------> to get detailsusing get/meetings/{meeting_id}  but instead of exposing meeting_id in route I have used other approach.
+
+------------->all the things I have done by myself without help of any tools like chatgpt and copilot. 
+
+-------------> all the demonstrated things are implemented by myself.  
                 
 
                 
